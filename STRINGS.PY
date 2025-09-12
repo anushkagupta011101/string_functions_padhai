@@ -102,6 +102,52 @@
 #upper()	Converts a string into upper case
 #zfill()	Fills the string with a specified number of 0 values at the beginning
 
+#x="Arunachal pradesh"
+#print(len(x))
+#print(x[5])
+#print(x[-4])
+
+
+#return second item
+#print(x[2])
+#return 17th item
+#print(x[16])
+#return 12 item
+#print(x[12])
+#return fourth item
+#print(x[4])
+#return 3rd item
+#print(x[3])
+#return 15th item
+#print(x[15])
+#return 1st item
+#print(x[1])
+#return second item
+#print(x[2])
+#return ninth item'''
+#print(x[9])
+
+#////////////////////////////////////////////////////////////////////////////
+
+#////////////////////////////////////////////////////////////////////////////
+
+
+'''x="hello delhi"
+print(x[0:5])
+print(x[-11:-6])
+print(x[6])
+print(x[-5])'''
+
+'''x="Himachal pradesh"		# 0  1  2  3  4  5  6  7 8 9 10 11 12  13 14 15
+print(len(x))				# H  i  m  a  c  h  a  l   p  r  a  d  e  s  h
+print(x[3])
+print(x[-14])					#
+print(x[4])
+print(x[-13])
+print(x[5])
+print(x[-12])
+print(x[3:15])
+print(x[-14:]
 
 
 
