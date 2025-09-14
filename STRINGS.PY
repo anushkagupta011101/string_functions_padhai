@@ -149,6 +149,91 @@
 #print(x[3:15])
 #print(x[-14:]
 
+#x="Himachal pradesh"
+#print(x.upper())		# PRINT WILL ALL IN CAPITAL LETTER
+#x="HIMACHAL PRADESH"
+#print(x.lower())		#PRINT WILL ALL IN SMALL LETTER
+
+#x=" BIHAR"
+#print(x.strip())	# ye start ke backspace ko kam karta hai
+
+
+'''x=" we all are students"		# its will the old to new word 
+print(x.replace("students","indian"))
+
+x="Good morning"
+print(x.split())'''		#it will be print in ['good','morning']like this
+
+'''x="one two three four five"
+print(x.split())'''
+
+
+
+# python-string concatenation
+'''x="Good"
+y="morning"
+z=x+" "+y
+print(z)
+
+x="Good"
+y="morning"
+z=x+y
+print(z)
+
+x="good"
+y="morning"
+z=x,y
+print(z)
+'''
+
+'''x="Good"
+y="morning"
+print(x,y)
+
+ Escape sequence : -
+	\n ----  for new line
+	\t ----  for a tab
+	\''----	 for single quote
+	\\ ----	 for back slash
+'''
+# \n its take a new page
+
+'''x="welcome to, \ndata science"
+print(x)
+'''
+# \t its take a one tab
+'''x="my name is \tprince kumar sharma"
+print(x)
+'''
+
+# \b its take a backspace
+#x="good    \bmorning"
+#print(x)
+
+# python string swapcase = its convert the capital to small and small to capital
+#x="hONESTY IS THE BEST policy"
+#y=x.swapcase()
+#print(x.swapcase())
+#print(y)
+
+'''age=23
+x="my name is anushka ,and i am {} old"
+print(x.format(age))
+'''
+#
+'''quantity= 3
+item= 45
+price= 78.45
+x=" i want {} pieces pf item {} for {} price."
+print(x.format(quantity,item, price))'''
+
+
+'''quantity= 3
+price= 45
+item= 78.45
+x=" i want {} pieces pf item {} for {} price."
+print(x.format(quantity,item, price))
+'''
 
 
 
