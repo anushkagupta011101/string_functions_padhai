@@ -190,7 +190,9 @@ print(z)
 y="morning"
 print(x,y)
 
- Escape sequence : -
+ 
+'''
+Escape sequence : -
 	\n ----  for new line
 	\t ----  for a tab
 	\''----	 for single quote
@@ -217,7 +219,7 @@ print(x)
 #print(y)
 
 '''age=23
-x="my name is anushka ,and i am {} old"
+x="my name is prince ,and i am {} old"
 print(x.format(age))
 '''
 #
@@ -227,13 +229,6 @@ price= 78.45
 x=" i want {} pieces pf item {} for {} price."
 print(x.format(quantity,item, price))'''
 
-
-'''quantity= 3
-price= 45
-item= 78.45
-x=" i want {} pieces pf item {} for {} price."
-print(x.format(quantity,item, price))
-'''
 
 
 
