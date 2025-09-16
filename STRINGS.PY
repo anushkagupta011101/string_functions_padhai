@@ -230,6 +230,56 @@ x=" i want {} pieces pf item {} for {} price."
 print(x.format(quantity,item, price))'''
 
 
+#1. reverse the string with the help of for loop
+'''x="himachal pradesh"
+y=len(x)-1
+for a in range(y,0,-1):
+	print(x[a],end=" ")'''
+#print(x[5:8])  
+
+#2. find the length of this string
+#x="Himachal pradesh"
+#print(len(x))
+
+#3.return seventh item
+#x="Himachal pradesh"
+#print(x[6])
+
+#4.return fifth to eeight item
+#x="Himachal pradesh"
+#print(x[4:8])
+
+#5. take the user input reverse this string with the help of for loop
+'''x=str(input("write any name:-\n"))
+y=len(x)-1
+for z in range(y,-1,-1):
+	print(x[z],end=' ')'''
+
+'''x=input("write any name:-\n")
+for z in x:
+	print(z,end=' ')'''
+
+#6. Take the user input print this string with help of while loop
+'''x="Himachal pradesh"
+y=len(x)
+z=0
+while y>z:
+	print(x[z],end=" ")
+	z+=1'''
+
+#7. print the ** place of a
+'''x="Himachal pradesh"
+print(x.replace("a","**"))
+'''
+
+#8. swapcase the string 
+'''x="Himachal PRADESH"
+print(x.swapcase())'''
+
+#9. take a user input and split this string
+'''x=input("enter anything below\n:-")
+print(x.split())
+'''
 
 
 
