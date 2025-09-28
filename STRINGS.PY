@@ -7,6 +7,7 @@
 
 #-------------------------------------------------------------
 # Strings
+
 # Strings in python are surrounded by either single quotation marks, or double quotation marks.
 
 # 'hello' is the same as "hello".
@@ -15,7 +16,7 @@
 
 
 
-# Multiline Strings
+# Multiline Strings:
 # You can assign a multiline string to a variable by using three quotes:
 
 
@@ -280,6 +281,7 @@ print(x.swapcase())'''
 '''x=input("enter anything below\n:-")
 print(x.split())
 '''
+
 
 
 
