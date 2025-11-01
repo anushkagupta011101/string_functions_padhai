@@ -1,11 +1,11 @@
 
-#--------------------------------------------------------------
+#----------------------------------------------------------
 #author:ANUSHKA GUPTA
 
 
 
 
-#-------------------------------------------------------------
+#-----------------------------------------------------------
 # Strings
 
 # Strings in python are surrounded by either single quotation marks, or double quotation marks.
@@ -281,6 +281,7 @@ print(x.swapcase())'''
 '''x=input("enter anything below\n:-")
 print(x.split())
 '''
+
 
 
 
