@@ -1,4 +1,4 @@
-
+string functions
 #----------------------------------------------------------
 #author:ANUSHKA GUPTA
 
@@ -281,6 +281,7 @@ print(x.swapcase())'''
 '''x=input("enter anything below\n:-")
 print(x.split())
 '''
+
 
 
 
